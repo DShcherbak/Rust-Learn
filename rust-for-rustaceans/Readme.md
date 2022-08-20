@@ -1,0 +1,1 @@
+# In this folder should be exerices from Rust for Rustaceans book
