@@ -137,5 +137,8 @@ fn foreach(){
         }
     }
 
-    assert_eq!(sum, 480); //150 * 4 + 10 * 5
+    assert_eq!(sum, 480); //150 * 3 + (3+2+1) * 5 =
+                          //= 450 + 30 = 480
+                          //because (1..4) means [1;4) or [1;3]
+                          //and (1..=4) means [1;4]
 }
