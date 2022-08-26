@@ -88,8 +88,6 @@ fn main() {
     assert_eq!(square.width, square.height);
 
 
-
-
     println!("All tests passed!");
 }
 
