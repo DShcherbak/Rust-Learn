@@ -66,9 +66,6 @@ fn main() {
     let slice = &a[1..3]; //slice of i32 array
     assert_eq!(slice, &[2, 3]); 
 
-    
-
-
     println!("Everything works correctly!");
 }
 
