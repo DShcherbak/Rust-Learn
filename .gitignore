@@ -3,3 +3,9 @@ rust-book/chapter-3/target/
 rust-book/chapter-4/target/
 rust-book/chapter-5/target/
 rust-book/chapter-6/target/
+rust-book/chapter-7/target/
+rust-book/chapter-7/backyard/target/
+rust-book/chapter-7/restaurant/target/
+rust-book/chapter-7/binary-project/target/
+rust-book/chapter-7/restaurant/src/front_of_house.exe
+rust-book/chapter-7/restaurant/src/front_of_house.pdb
